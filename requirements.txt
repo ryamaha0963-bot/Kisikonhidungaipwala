@@ -1,4 +1,0 @@
-pyrogram
-telethon
-tgcrypto
-uvloop
