@@ -1,0 +1,4 @@
+pyrogram
+telethon>=1.40
+tgcrypto
+uvloop
